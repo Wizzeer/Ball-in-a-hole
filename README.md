@@ -1,0 +1,1 @@
+# Game based on device orientation(beta and gamma angles). Move the ball to the finish hole in the shortest time.
